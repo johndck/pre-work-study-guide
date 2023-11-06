@@ -1,19 +1,15 @@
-# pre-work-study-guide
+# JD Pre-work-study-guide
 
-# <Your-Project-Title>
+#
 
 ## Description
 
-Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
+A very small web page covering what we learned during the pre-work.
 
-- What was your motivation?
-- Why did you build this project? (Note: the answer is not "Because it was a homework assignment.")
-- What problem does it solve?
-- What did you learn?
-
-## Table of Contents (Optional)
-
-If your README is long, add a table of contents to make it easy for users to find what they need.
+- It was created as part of the pre-work for the bootcamp.
+- It enabled us to practice git.
+- Reminds us of the components we are learning on the bootcampp
+- How all of the components interact with each other.
 
 - [Installation](#installation)
 - [Usage](#usage)
@@ -22,13 +18,11 @@ If your README is long, add a table of contents to make it easy for users to fin
 
 ## Installation
 
-What are the steps required to install your project? Provide a step-by-step description of how to get the development environment running.
+n/a
 
 ## Usage
 
-Provide instructions and examples for use. Include screenshots as needed.
-
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative file path, add it to your README using the following syntax:
+n/a
 
 ![alt text](assets/images/screenshot.png)
 
